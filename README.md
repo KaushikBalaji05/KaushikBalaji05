@@ -48,7 +48,6 @@ I'm currently focusing on building a stronger foundation in:
 * Data Structures & Algorithms
 * Database Systems
 * Big Data
-* Computer Networks
 
 I prefer understanding the **reasoning behind concepts** rather than simply memorizing how to use them.
 
@@ -81,7 +80,3 @@ I prefer understanding the **reasoning behind concepts** rather than simply memo
 
 
 ---
-
-<p align="center">
-  <i>Learn. Build. Break things. Understand why. Repeat.</i>
-</p>
