@@ -1,82 +1,47 @@
 # Hey, I'm Kaushik 👋
 
-### Computer Science Student | Data Analytics | Machine Learning
+CS student. Professional overthinker. Part-time bug creator.
 
-I'm a Computer Science student who enjoys **building things, solving problems, and figuring out how things work under the hood**.
+I write code, break things, spend an unreasonable amount of time fixing them, and occasionally convince myself I know what I'm doing. I also enjoy making AI agents do things that I could probably do myself.
 
-I'm particularly interested in the intersection of **programming, mathematics, statistics, and data** — currently exploring Data Analytics and Machine Learning while strengthening my Computer Science fundamentals.
-
----
-
-## 🧠 Interests
-
-* 📊 Data Analytics & Data Visualization
-* 🤖 Machine Learning
-* 📐 Mathematics & Statistics
-* 💻 Algorithms & Problem Solving
-* 🗄️ Databases & SQL
+I'm interested in data analytics, machine learning, and the math behind them. Lately, I've also been exploring AI agents and big data systems.
 
 ---
 
-## 🛠️ Technologies I Work With
+### In the terminal
 
-**Languages**
-
-`Python` `C` `C++` `SQL`
-
-**Data & ML**
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `SciPy` `Scikit-learn`
-
-**Databases**
-
-`PostgreSQL` `MongoDB`
-
-**Tools**
-
-`Git` `GitHub` `Linux` `VS Code`
+- 📊 **Data & ML:** Exploring datasets, finding patterns, and understanding the maths behind machine learning.
+- 🤖 **AI Agents:** Building and experimenting with AI agents to automate workflows and make everyday tasks a little easier.
+- 🛠️ **Building stuff:** Exploring new tools, turning ideas into projects, and learning along the way.
+- 🐛 **Debugging:** Solving problems, fixing unexpected issues, and occasionally creating new ones in the process.
 
 ---
 
-## 🌱 Currently Learning
+### Outside the terminal
 
-I'm currently focusing on building a stronger foundation in:
-
-* Statistics for Data Science
-* Machine Learning
-* SQL & Data Analytics
-* Data Structures & Algorithms
-* Database Systems
-* Big Data
-
-I prefer understanding the **reasoning behind concepts** rather than simply memorizing how to use them.
+- Gaming with friends whenever our schedules magically align
+- Listening to music. The playlist is a mess, but it works.
+- Watching F1, football, the NBA, and pretty much any sport that happens to be on
+- Sleeping. An underrated hobby, honestly.
 
 ---
 
-## 🎯 A Little About Me
+### Tech I use
 
-* 🎓 Computer Science student
-* 🐍 Python is my go-to language for data and experimentation
-* 📊 Interested in turning data into useful insights
-* 🧮 I enjoy the mathematical side of computing
-* 🔍 I like understanding how systems work internally
-* 🚀 Always trying to learn something new
+**Languages:** Python · C · C++ · SQL
 
----
+**Data & ML:** NumPy · Pandas · Matplotlib · scikit-learn
 
-## 📫 Connect With Me
+**Databases:** PostgreSQL · MongoDB
 
-<p>
-  <a href="https://github.com/KaushikBalaji05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaushik-balaji-b2967337a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kaushik.balaji18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+**Tools:** Git · GitHub
 
 ---
+
+### Contact me
+
+- **LinkedIn:** [linkedin.com/in/kaushik-balaji-b2967337a](https://www.linkedin.com/in/kaushik-balaji-b2967337a/)
+- **GitHub:** [github.com/KaushikBalaji05](https://github.com/KaushikBalaji05)
+- **Email:** [kaushik.balaji18@gmail.com](mailto:kaushik.balaji18@gmail.com)
+
+*Probably asleep. Or debugging something. Possibly teaching an AI agent to debug something for me.*
